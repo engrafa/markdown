@@ -1,2 +1,2 @@
 # markdown
-A repo where al the markdowns of the articles will be stored.
+A repo where all the markdowns of the articles will be stored.
