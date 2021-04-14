@@ -1,6 +1,6 @@
 ### About us
 
-Engrafa is a collaborative project whose aim is to make a compilation of articles for people who are new to programming or a specific field of it, like web development. All the articles can be accessed through our website, `yaguide` (**y**et **a**nother guide for beginners)
+Engrafa® is a nonprofit and collaborative project whose aim is to make a compilation of articles for people who are new to programming or a specific field of it, like web development. All the articles can be accessed through our website, `yaguide` (**y**et **a**nother guide for beginners)
 
 ---
 
