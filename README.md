@@ -1,2 +1,2 @@
 # markdown
-A markdown version of yaguide
+A repo where al the markdowns of the articles will be stored.
