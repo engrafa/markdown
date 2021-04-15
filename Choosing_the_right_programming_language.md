@@ -1,8 +1,8 @@
 # Choosing the right programming language.
 
-There are hundreds of programming languages available....Javascript, Python, Java, Rust are the some of the popular ones, but how to choose one to start with?
+There are hundreds of programming languages available out there... Javascript, Python, Java, Rust are the some of the popular ones, but how to choose one to start with?
 
-This article explains what I think are some of the points to consider before choosing a programming language.
+This article explains what I think are some of the most important points to consider before choosing a programming language.
 
 But to understand which programming language to choose,
 first we will have to understand what it is.
@@ -12,7 +12,7 @@ first we will have to understand what it is.
 A programming language is a language which the compiler or an interpreter understands.But wait what are compilers and interpreters?
 
 A computer cannot understand human readable code, but a compiler or an interpreter understands.These two basically convert human readable code into computer readable code.
-For a brief description read this(hyperlink for compiler vs interpreter article)
+For a brief description read this (hyperlink for compiler vs interpreter article)
 
 The following are some points for choosing the right programming language.
 
@@ -46,7 +46,7 @@ In compiled languages you can easily compile code in a binary executable(hyperli
 Whereas, in interpreted languages you cannot interprete code into a binary executable easily.*You can convert python3 and javascript code in executables, but it does not work all the time.*
 
 # Cross-platform compatibility
-Cross-platform compatibility means having the same executable in different platforms.
+Cross-platform compatibility means having the same executable in different platforms (for more: link to Cross-Platform Article).
 Compiled languages have more issues in Cross-platform compatibility while interpreted languages work well in different platforms.
 While taking executables into consideration, the OS and it is dependencies com into the picture while running the code and that's why this executable cannot be run in different platforms.
 So, the executable written on ```Windows x32``` will not work on ```Windows x64``` and also on any unix systems.
@@ -66,9 +66,9 @@ If you are learning programming for getting a job, this criteria is for you.
 If you want to get a job then what is the advantage in learning which is outdated or not in demand?
 
 You should research about what is the most demanded language in your area, and go for learning that language first.
-You can find some of the most popular and demanded languages in the world here(hyperink for https://towardsdatascience.com/top-10-in-demand-programming-languages-to-learn-in-2020-4462eb7d8d3e)
+You can find some of the most popular and demanded languages in the world [here](https://towardsdatascience.com/top-10-in-demand-programming-languages-to-learn-in-2020-4462eb7d8d3e)
 
-_Spoiler Alert: The programming language having the most job opportunities in the world is Python3_
+_Spoiler Alert: The programming language having the most job opportunities worldwide is Python3_
 
 If you are a skilled programmer and you want to add a new language to your portfolio, find where the industry is headed. 
 The StackOverflow developer surveys are very accurate and show the state of the industry. 
