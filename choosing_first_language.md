@@ -55,9 +55,9 @@ Whereas, in interpreted languages you cannot interprete code into a binary execu
 Cross-platform compatibility means having the same executable in different platforms (for more: link to Cross-Platform Article).
 Compiled languages have more issues in Cross-platform compatibility while interpreted languages work well in different platforms.
 While taking executables into consideration, the OS and it is dependencies come into picture while running the code and that's why this executable cannot be run in different platforms.
-So, the executable written for ```Windows x32``` will not work on ```Windows x64``` and also any unix systems.
+So, the executable written for `Windows x32` will not work on `Windows x64` and also any unix systems.
 Whereas, interpreted languages do not have this issue as the interpreter installed on the user's machine gives instructions to the machine's processor.
-_This can be done only if a runtime environment is present on the user's machine_
+*This can be done only if a runtime environment is present on the user's machine*
 
 ### Syntax difficulty
 I feel that if you are learning your first programing language, the [syntax](https://en.wikipedia.org/wiki/Syntax) should be an easy one.
