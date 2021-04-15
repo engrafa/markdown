@@ -7,7 +7,7 @@ Compiled are languages for which a special program called a compiler is used. It
 
 Then, there are interpreted, like python, where a separate program, called an interpreter, is used to read and execute your code line-by-line. That's why you can't really turn a python program into .exe. There are attempts that try packaging python and your .py file together, like pyinstaller, but there are a lot of problems with using those (aka they don't usually work at all). 
 
-*More info here: https://www.programiz.com/article/difference-compiler-interpreter .*
+*[More info here](https://www.programiz.com/article/difference-compiler-interpreter) .*
 
 
 ## Interpreted languages are easier, but mostly only used for websites
@@ -16,7 +16,7 @@ That program, when "a request is received", runs some code you wrote, and sends 
 Then there's frontend - the stuff you see yourself. Html, CSS and JavaScript are usually used for developing webpages. (Important: not to be confused with Java, Java and JavaScript are similar in the same way as a car and a carpet).
 There are a lot of frameworks used to simplify html, css and javascript programming. If you plan on getting into frontend, I personally recommend learning react.js. 
 
-*More info here: https://www.conceptatech.com/blog/difference-front-end-back-end-development .*
+*[More info here](https://www.conceptatech.com/blog/difference-front-end-back-end-development) .*
 
 
 ## Gamedev
@@ -29,7 +29,7 @@ Mostly python is used here. Machine learning is a really complicated topic and r
 It's when instead of writing a big and complicated algorithm for doing some task you tell the computer "ok, here's what are some examples of the task, here are some example solutions, train to do this.
 And, after fine tuning and training, the algorithm gets pretty good at the task. Examples of this in the wild are self-driving cars, face recognition on your smartphone camera, and other tasks that even - to some extent - require creativity.
 
-Here's a pretty advanced example of what computer can do: generate new images that look real, https://thisxdoesnotexist.com/
+Here's a pretty advanced example of what computer can do: [generate new images that look real](https://thisxdoesnotexist.com/)
 
 
 ## Electron.js
@@ -38,4 +38,4 @@ The most popular library is electron.js, popular programs like Discord, whatsApp
 You can use your favorite javascript frameworks as well, for example, Discord for desktop uses react.js + electron.js. Electron takes out all the hastle of turning your code into an .exe file, a linux and macOS executable.
 
 
-_Author: rizerphe (https://github.com/BohdanOpyr)_
+_Author: [rizerphe](https://github.com/BohdanOpyr)_
