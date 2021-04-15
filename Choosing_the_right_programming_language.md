@@ -21,9 +21,9 @@ When you write a piece of code, your biggest concerns should be **speed, portabi
 # Speed
 Everybody wants their code to be executed quickly. Speed is a point which is very important when it comes to larger projects.
 
-This (hyperlink for github.com/drujensen/fib) is the test conducted by a GitHub user which calculates the time needed for the execution of a nth Fibonacci(hyperlink for fibonacci wikipedia) number.
+[This](github.com/drujensen/fib) is the test conducted by a GitHub user which calculates the time needed for the execution of a nth [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number) number.
 
-The results(hyperlink for results) shows that low-level and compiled languages take much less time than those who are high-level and interpreted.
+The [results](https://github.com/drujensen/fib#natively-compiled-statically-typed) shows that low-level and compiled languages take much less time than those who are high-level and interpreted.
 
 Compiled languages such as C, C++, Rust, Golang all complete the execution in under 10 seconds.
 But interpreted languages such as lua and Python3, take 495 and 598 seconds respectively.
@@ -74,3 +74,7 @@ If you are a skilled programmer and you want to add a new language to your portf
 The StackOverflow developer surveys are very accurate and show the state of the industry. 
 
 If you are going to ask me today which programming language should you learn, I would say Python, JavaScript, Golang, Dart and Rust should be the ideal choice.
+
+Happy debugging,
+
+Engrafa team
