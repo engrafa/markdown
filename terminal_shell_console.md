@@ -22,5 +22,5 @@ It is basically a computer program/software that interprets and executes the var
 ### Console
 Terminal and Console are basically synonyms. They are in general sense physcial terminals. They are equipments through which we can interact with computer. The name *terminal* came from an electronic point of view and *console* from a hardware point of view. 
 
-
-
+Happy debugging,
+Emperor, Sk9| Engrafa Team
