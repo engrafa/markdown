@@ -84,3 +84,8 @@ If you ask me, i think python is the best language for you to start with, for a 
 - It's one of the most **relevant languages** today. You find it being discussed in a lot of programming resources, and there is an ocean of resources to learn and master it online
 - **Very easy syntax**, this does not discourage new programmers, and then can focus solely on understanding and mastering the basic concepts
 - **Applications**, Python has a lot of applications, ranging from web dev to game dev to ML (Maching Learning). New programmers can play around with these and figure out for themselves which field they're most interested in, and then choose a different language to pursue it if they feel like it's better.
+
+
+Happy debugging,
+
+Sk9, MetaStag|_Engrafa Team_
