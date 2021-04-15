@@ -37,4 +37,5 @@ Examples of TUI are lesser known, some of them are listed here for reference :-
 - Cmus (Music Player)
 
 Happy debugging,
+
 MetaStag, Raniconduh | Engrafa Team
