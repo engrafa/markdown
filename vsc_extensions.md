@@ -4,7 +4,7 @@ Extensions in [vscode](https://code.visualstudio.com/) are basically just pieces
 
 This article will be focusing on a few vs code extensions that can help you with improving your programming workflow
 
-## Extesnions For Your Langauge
+## Extensions For The Programming Langauge That Your Project Uses
 Lets take `Python` for example.
 Python is an interpreted langauge so the errors show up when you run the code, but with the `python` extension comes linting, a simple tool that looks at your code for errors and standards and warns you about them. This might get pretty helpful when writing large projects.
 It also includes a cool code formatter called `black`.
