@@ -9,7 +9,7 @@ An IDE generally includes :
 - a compiler and an interpretor, and much more
 Nowadays, many IDEs also consist of a *classic browser*, an *object browser* and a *class hierarchy diagram* for use in oop i.e. object-oriented programming.
 
-A text editor just allows you to write texts but an IDE does more than that. Let's take a common example for a more clear understanding. We all have used Notepad at some point in our life or atleast heard about it. Now Notepad just allows you to write and modify text. But you cannot do anything more than that. Whereas if you take an IDE, you will clearly see a lot of difference, it will allow you to write, debug, compile, manage files and workspaces etc. 
+A text editor just allows you to write texts but an IDE does more than that. Let's take a common example for a more clear understanding. We all have used Notepad at some point in our life or atleast heard about it. Now Notepad just allows you to write and modify text. But you cannot do anything more than that. Whereas if you take an IDE, you will clearly see a lot of difference, it will allow you to write, debug, compile, manage files and workspaces etc. But there are few exceptions there as text editors aimed for programming such as sublime, atom and VSC do provide features like intellisense and file management and git integration. And to be honest these text editors do almost everything that an IDE does, especially VSC.
 
 Now, many of you may ask that VSC also does all the things that an IDE does, so is it an IDE too? Well no. We will soon look into it but before that let's take a look at some of the most prominent IDEs : Microsoft Visual Studio (It's not VSC), NetBeans, PyCharm, IntelliJ IDEA, Eclipse. 
 
