@@ -21,4 +21,5 @@ Now let us discuss about some of the best text editors which you can use to impr
 - Vim : It is a powerful text editor which runs in a terminal i.e. its interface is not based on menus or icons. Its GUI mode, **gVim** adds menus and toolbars for commonly used commands but the full functionality is still expressed through its command line mode. Vim has tons of keybindings to do everything, which makes the workflow very fast, but it simultaneously increases the learning curve.
 
 Happy Debugging,
+
 Emperor, MetaStag | Engrafa Team
