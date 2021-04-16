@@ -39,7 +39,7 @@ Modern search engines provide features like autosuggestions when you're writing 
 Just like with browsers, Google takes the reign in market share here as well, more so than in the browser market. Google holds roughly 92% of the market share, while the next contender, Bing, has barely 2.4%.
 
 ##### Examples
-Some examples of search engines are -> 
+Some examples of search engines are:
 - DuckDuckGo
 - Google
 - Bing
