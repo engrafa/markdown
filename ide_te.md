@@ -35,6 +35,13 @@ Now let us discuss about some of the best text editors which you can use to impr
 - Visual Studio Code : It is a text editor made by Microsoft for Windows, Linux and MacOS, it includes tools for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
 - Vim : It is a powerful text editor which runs in a terminal i.e. its interface is not based on menus or icons. Its GUI mode, **gVim** adds menus and toolbars for commonly used commands but the full functionality is still expressed through its command line mode. Vim has tons of keybindings to do everything, which makes the workflow very fast, but it simultaneously increases the learning curve.
 
+### What should you use?
+A good programmer should always be evaluating his or her needs with regards to the project at hand. 
+
+If you are in a project with a large codebase and are struggling to understand the code, then you should use an IDE with a good project overview/navigation tools. 
+
+If you are working on a project which has [open-source](en.wikipedia.org/wiki/Open_source) and you understand the source code, then a text editor is the right choice.
+
 Happy Debugging,
 
-Emperor, MetaStag| Engrafa Team
+Emperor, MetaStag, Sk9 | *Engrafa team*
