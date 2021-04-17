@@ -101,7 +101,7 @@ As the name suggests, bottom-up parsing starts with the input symbols and tries 
 
 The **optimizer** takes in a valid **parse tree** (or abstract syntax tree) and tries to figure out what could be done to make the code *smaller*, *faster*, or a *combination* of the two.
 
-Although code optimization is not necessary, it can be very beneficial for any programmer as the code optimizer is often a very intelligent piece of software (sometimes moreso than the programmer themself).
+Although code optimization is not necessary, it can be very beneficial for any programmer as the code optimizer is often a very intelligent piece of software (sometimes moreso than the programmer themselves).
 
 
 ## Compiling
