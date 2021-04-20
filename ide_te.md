@@ -40,7 +40,7 @@ A good programmer should always be evaluating his or her needs with regards to t
 
 If you are in a project with a large codebase and are struggling to understand the code, then you should use an IDE with a good project overview/navigation tools. 
 
-If you are working on a project which has [open-source](en.wikipedia.org/wiki/Open_source) and you understand the source code, then a text editor is the right choice.
+If you're working on a project which is not very, very huge or you're not dealing with a lot of files, then a text editor will suffice.
 
 Happy Debugging,
 
