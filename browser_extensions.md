@@ -28,4 +28,5 @@ Browser extensions generally have access to sensitive data like your history, th
 A lot of the times, the browser web store will have a warning that the extension in question is not actively monitored and may not be safe.
 
 Happy debugging,
-MetaStag | Engrafa Team
+
+MetaStag, Sk9 | Engrafa Team
