@@ -5,6 +5,7 @@ Every time you have to research, make sure you allocate enough time for it. Writ
 For example:
     `Finish researching about HTTP requests before 6 pm tomorrow`
     `Start researching about Machine Learning at 8 pm tonight`
+Here is a [video](https://www.youtube.com/watch?v=1RRQzAbC7ro) about how a programmer manages his time
 
 
 ## Deal with it piece by piece
