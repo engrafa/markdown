@@ -39,7 +39,7 @@ git push origin <your-branch-name>
 
 ## Create pull request
 Now you should see a "Compare & pull request" button in your forked repository.
-<img src="https://hisham.hm/img/posts/github-comparepr.png">
+<img src="https://hisham.hm/img/posts/github-comparepr.png"><br>
 Click that and submit the pull request!
 
 

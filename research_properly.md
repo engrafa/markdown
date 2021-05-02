@@ -43,6 +43,7 @@ Anyways, beware of the trap of procrastination masquerading as productivity! Onl
 
 **Now research with confidence!**
 
+---
 
 Happy researching,
 
