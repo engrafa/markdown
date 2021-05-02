@@ -6,12 +6,12 @@ Engrafa is a nonprofit collaborative project whose aim is to compile articles fo
 
 ## Why make this when there are already so many resources out there?
 
-While it's true that there are a lot of resources out there, it's also true that a lot of new people have trouble finding these resources or they don't know where to start. `yaguide` aims to combat this by providing a compilation of articles all in one location, so that people can easily find the relevant resource. Apart from this, there are also articles on how to research properly, how to search for your doubt properly, and utilizing fabulous resources like stackoverflow so that they can start researching on their own. 
+While it's true that there are a lot of resources out there, it's also true that a lot of new people have trouble finding these resources or they don't know where to start. `yaguide` aims to combat this by providing a compilation of articles all in one location, so that people can easily find the relevant resource. Apart from this, there are also articles on how to research properly, how to search for your doubt properly, and utilizing fabulous resources like StackOverflow so that they can start researching on their own. 
 
 
 ## What does Engrafa mean?
 
-Engrafa is greek for "docs". Docs (short for documentation) are essential to read when starting with a new langauge/technology, and basing the name of our organization on that aims to highlight this point. Reading the docs is very important and a lot of the doubts new programmers have can be easily rectified by just reading the docs.
+Engrafa is Greek for "docs". Docs (short for documentation) are essential to read when starting with a new language/technology, and basing the name of our organization on that aims to highlight this point. Reading the docs is very important and a lot of the doubts new programmers have can be easily rectified by just reading the docs.
 
 ## What does yaguide mean?
 

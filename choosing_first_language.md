@@ -1,6 +1,6 @@
 # Choosing the right programming language
 
-There are hundreds of programming languages available out there... Javascript, Python, Java and Rust are the some of the popular ones, but how to choose one to start with?
+There are hundreds of programming languages available out there... JavaScript, Python, Java and Rust are the some of the popular ones, but how to choose one to start with?
 
 This article explains what I think are some of the most important points to consider before choosing a programming language.
 
@@ -30,7 +30,7 @@ Everybody wants their code to be executed quickly. Speed is an important criteri
 The [results]() shows that low-level and compiled languages take much less time than high-level and interpreted ones.
 
 Compiled languages such as C, C++, Rust, Golang all complete the execution in under 10 seconds.
-But interpreted languages such as lua and Python3, take 495 and 598 seconds respectively.
+But interpreted languages such as Lua and Python3, take 495 and 598 seconds respectively.
 
 You should also keep in mind that using a fast language is not enough, if your implementation is bad, your program will perform slowly, no matter which language you use.
 
@@ -39,7 +39,7 @@ Security is an important criteria as it is always a big concern when it comes to
 
 But, what is an insecure programming language? An insecure programming language is a programming language which is vulnerable. Or in simple words, the user's system resources can easily be leaked **without** authorization by the user.
 
-These are the most insecure programing languages: C, Java, JavaScript, Python, Ruby, PHP, C++ in the same order.
+These are the most insecure programming languages: C, Java, JavaScript, Python, Ruby, PHP, C++ in the same order.
 
 Brief explanation on insecure programming languages can be found [here](https://www.zdnet.com/article/which-are-the-most-insecure-programming-languages/)
 
@@ -49,7 +49,7 @@ The only reason that I feel why C and C++ are still popular today is because of 
 
 In compiled languages you can easily compile code in a binary [executable](https://en.wikipedia.org/wiki/Executable), which can be run by users without installing the actual programming language you have written the code in.
 
-Whereas, in interpreted languages you cannot interprete code into a binary executable easily.*You can convert python3 and javascript code in executables, but it does not work all the time.*
+Whereas, in interpreted languages you cannot interpret code into a binary executable easily.*You can convert python3 and JavaScript code in executables, but it does not work all the time.*
 
 ### Cross-platform compatibility
 Cross-platform compatibility means ability to execute the same application distribution on different platforms (for more: link to Cross-Platform Article).
@@ -58,18 +58,18 @@ Compiled languages have more issues in Cross-platform compatibility while interp
 
 While taking executables into consideration, the OS and it is dependencies come into picture while compiling the code and that's why this executable cannot be run in different platforms.
 
-The executable written for `Windows x32` will not work on `Windows x64` and also any unix systems.
+The executable written for `Windows x32` will not work on `Windows x64` and also any Unix systems.
 
 Interpreted languages do not have this issue as the interpreter installed on the user's machine gives instructions to the machine's processor.
 
 This can be done only if a runtime environment is present on the user's machine
 
 ### Syntax difficulty
-I feel that if you are learning your first programing language, the [syntax](https://en.wikipedia.org/wiki/Syntax) should be an easy one.
+I feel that if you are learning your first programming language, the [syntax](https://en.wikipedia.org/wiki/Syntax) should be an easy one.
 
 It does not matter if it is a compiled language or an interpreted one if you are developing software at the basic level.
 
-Some of the languages having the easiest syntaxes are Python, Lua, JavaScript and Ruby and are great for being the first language you learn.
+Some of the languages having the easiest syntax are Python, Lua, JavaScript and Ruby and are great for being the first language you learn.
 Only after, you know a certain concepts, I feel you should go for learning languages like Java, C#, R, etc.
 
 ### Job Opportunities
@@ -88,7 +88,7 @@ The StackOverflow developer surveys are very accurate and show the state of the 
 If you ask me, i think python is the best language for you to start with, for a number of reasons:
 - It's one of the most **relevant languages** today. You find it being discussed in a lot of programming forums, and there is an ocean of resources to learn and master it online
 - **Very easy syntax**, this does not discourage new programmers, and then can focus solely on understanding and mastering the basic concepts
-- **Applications**, Python has a lot of applications, ranging from web dev to game dev to ML (Maching Learning). New programmers can play around with these and figure out for themselves which field they're most interested in, and then choose a different language to pursue it if they feel like it's better.
+- **Applications**, Python has a lot of applications, ranging from web dev to game dev to ML (Machine Learning). New programmers can play around with these and figure out for themselves which field they're most interested in, and then choose a different language to pursue it if they feel like it's better.
 
 ---
 

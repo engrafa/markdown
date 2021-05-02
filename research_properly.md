@@ -17,11 +17,11 @@ So deal with the topic piece by piece.
 There are a lot of resources that exist which can help you with your programming research. I would tell you to **never stop** with Wikipedia, but rather start with it.
 
 ### Google and DuckDuckGo
-Don't be guilty to use google, duckduckgo, or whatever search engine you like for your research.
+Don't be guilty to use Google, DuckDuckGo, or whatever search engine you like for your research.
 I have seen a lot of people feeling guilty to search things up for no reason, so I just tell you not to be guilty and search up whatever you want.
 
-### Stackoverflow
-[Stackoverflow](https://stackoverflow.com/) is a pretty hyped forum between developers, and it will be pretty helpful too. I recommend you to **ask and answer** on StackOverflow **if** your question is not in the huge forum already and to search for questions properly without being vague.
+### StackOverflow
+[StackOverflow](https://stackoverflow.com/) is a pretty hyped forum between developers, and it will be pretty helpful too. I recommend you to **ask and answer** on StackOverflow **if** your question is not in the huge forum already and to search for questions properly without being vague.
 
 For example:
     don't search for `Variable error in python` but rather for the real error like `Variable not defined error in python`
@@ -47,4 +47,4 @@ Anyways, beware of the trap of procrastination masquerading as productivity! Onl
 
 Happy researching,
 
-ACuteWoof | _Engrafa Team_
+ACuteWoof,MetaStag | _Engrafa Team_
