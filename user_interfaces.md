@@ -36,6 +36,8 @@ Examples of TUI are lesser known, some of them are listed here for reference :-
 - Ranger (File Manager)
 - Cmus (Music Player)
 
+---
+
 Happy debugging,
 
 MetaStag, Raniconduh | Engrafa Team

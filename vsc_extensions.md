@@ -35,6 +35,8 @@ Material theme icons also makes folders look good by looking at its name and giv
 
 Alright! That has been just a few extensions that can help you boost your programming workflow. There are a lot that you will find once you start exploring the world of coding, and the VSCode market place.
 
+---
+
 Happy Coding,
 
 ACuteWoof | _Engrafa Team_

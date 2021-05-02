@@ -90,6 +90,7 @@ If you ask me, i think python is the best language for you to start with, for a 
 - **Very easy syntax**, this does not discourage new programmers, and then can focus solely on understanding and mastering the basic concepts
 - **Applications**, Python has a lot of applications, ranging from web dev to game dev to ML (Machine Learning). New programmers can play around with these and figure out for themselves which field they're most interested in, and then choose a different language to pursue it if they feel like it's better.
 
+---
 
 Happy debugging,
 

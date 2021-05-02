@@ -11,6 +11,8 @@ So now you know that it's the APIs that make connectivity possible between all a
 
 So whenever you think of an API, think of it as a waiter that runs back and forth between applications, databases, and devices to deliver the data and creates connectivity that puts the world at our fingertips.
 
+---
+
 Happy debugging,
 
 Mr. Radium | Engrafa Team
