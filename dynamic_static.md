@@ -43,6 +43,8 @@ You might want to use dynamic languages over static languages if you are a begin
 
 <br>
 
+---
+
 Happy Programming,\
 Prash | _Engrafa Team_
 

@@ -42,6 +42,8 @@ If you are in a project with a large codebase and are struggling to understand t
 
 If you're working on a project which is not very, very huge or you're not dealing with a lot of files, then a text editor will suffice.
 
+---
+
 Happy Debugging,
 
 Emperor, MetaStag, Sk9 | *Engrafa team*

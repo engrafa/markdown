@@ -55,6 +55,8 @@ Most if not all browsers today set a default search engine for you (in most case
 #### Another important point to note
 Google Chrome is a web browser, while Google (not referring to the company) is a search engine, it is possible to use a different search engine with google chrome and vice versa.
 
+---
+
 Happy debugging,
 
 MetaStag, ACuteWoof | Engrafa Team
