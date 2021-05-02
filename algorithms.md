@@ -92,6 +92,8 @@ Let's analyze the graph:
 We have got to the end!
 Now you have a basic understanding of algorithms and time complexity, and you are ready to code!
 
+---
+
 Happy debugging,
 
 *Kappa* | Engrafa team

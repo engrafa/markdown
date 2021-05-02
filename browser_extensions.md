@@ -27,6 +27,8 @@ You can find extensions for chrome over on the chrome [web store](https://chrome
 Browser extensions generally have access to sensitive data like your history, the ability to manipulate the look of your browser and to alter website content, so always be wary while installing them, only install extensions that are well-known and trusted.
 A lot of the times, the browser web store will have a warning that the extension in question is not actively monitored and may not be safe.
 
+---
+
 Happy debugging,
 
 MetaStag, Sk9 | Engrafa Team
