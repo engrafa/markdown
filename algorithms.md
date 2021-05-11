@@ -6,6 +6,7 @@ Sounds like a really scary word to us, yet, what are algorithms?
 Algorithms are nothing more than a step-by-step solution to solve a given problem, it allows the program to generate an output starting from a given input.
 
 ![Algorithms](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/time-and-space-complexity-analysis-of-algorithm-flow-of-algorithm-3df63a24cb959397.png)
+
 But algorithms are not exclusively related to computers. We can consider as an algorithm even a cooking recipe.
 However, to describe an algorithm to a computer we must be **precise** and there must **not** be any ambiguity.
 
