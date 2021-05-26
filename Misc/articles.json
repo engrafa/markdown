@@ -1,0 +1,32 @@
+{
+        "0" : {
+            "name": "Choose Your First Language",
+            "file": "first_lang.md",
+            "desc": "We help you choose your first programming language!",
+            "author" : "Sk9, MetaStag"
+        },
+        "1" : {
+            "name": "Github",
+            "file": "github.md",
+            "desc": "An article about github, a popular website to manage source code online with git.",
+            "author": "MetaStag, Emperor"
+        },
+        "2" : {
+            "name": "IDEs and Text Editors",
+            "file": "ide_te.md",
+            "desc": "Differentiate between IDEs and Text editors, and find out whether vs code is an IDE or a text editor!",
+            "author": "Emperor, MetaStag, Sk9"
+        },
+        "3" : {
+            "name": "Researching",
+            "file": "research.md",
+            "desc": "An article about some tips which can help you to research properly.",
+            "author": "ACuteWoof, MetaStag"
+        },
+        "4" : {
+            "name": "Helpful VSCode Extensions",
+            "file": "vsc_ext.md",
+            "desc": "Covering some of the extensions that are available in the vs code extension store which can help you boost productivity",
+            "author": "ACuteWoof"
+        }
+}

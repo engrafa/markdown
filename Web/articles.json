@@ -1,0 +1,19 @@
+{
+        "0" : {
+            "name": "What is an API",
+            "file": "api.md",
+            "desc": "We help you choose your first programming language!",
+            "author" : "Sk9, MetaStag"
+        },
+        "1" : {
+            "name": "Browser Extensions",
+            "file": "browser_ext.md",
+            "desc": "Some useful browser extensions for you, the programmer.",
+            "author": "MetaStag, Sk9"
+        },
+        "2": {
+            "name": "Web Browsers and Search Engines",
+            "file": "wb_se.md",
+            "desc": "This article differentiate between search engines and web browsers"
+        }
+}

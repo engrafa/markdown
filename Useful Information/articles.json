@@ -1,0 +1,32 @@
+{
+    "0" : {
+        "name": "Algorithms",
+        "file": "algo.md",
+        "desc": "A very brief yet concise introduction to algorithms and time complexity.",
+        "author": "Kappa"
+    },
+    "1" : {
+        "name": "Compilers",
+        "file": "comp.md",
+        "desc": "Beginner friendly, detailed article about compilers, which covers topics from `What is a compiler` to Recursion, Parsing and all that good stuff.",
+        "author": "Kappa, Sk9, Raniconduh"
+    },
+    "2" : {
+        "name": "Dynamic V. Static Languages",
+        "file": "dyna_stat.md",
+        "desc": "This article covers about the difference, pros and cons of static and dynamic languages.",
+        "author": "Prash"
+    },
+    "3": {
+        "name": "Terminal, Shell and Console",
+        "file": "term_sh_cons.md",
+        "desc": "Understand about terminal, shells and console.",
+        "author": "Emperor, MetaStag"
+    },
+    "4": {
+        "name": "User Interfaces",
+        "file": "ui.md",
+        "desc": "Some information about user interfaces and differentiate between CLI and TUI.",
+        "author": "MetaStag, Raniconduh"
+    }
+}
