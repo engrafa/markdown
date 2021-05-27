@@ -2,31 +2,31 @@
     "0" : {
         "name": "Algorithms",
         "file": "algo.md",
-        "desc": "A very brief yet concise introduction to algorithms and time complexity.",
+        "desc": "This article gives a brief yet concise introduction to algorithms and time complexity.",
         "author": "Kappa"
     },
     "1" : {
         "name": "Compilers",
         "file": "comp.md",
-        "desc": "Beginner friendly, detailed article about compilers, which covers topics from `What is a compiler` to Recursion, Parsing and all that good stuff.",
+        "desc": "This article explains what a compiler is, while also covering topics such as parsing and code optimization.",
         "author": "Kappa, Sk9, Raniconduh"
     },
     "2" : {
         "name": "Dynamic V. Static Languages",
         "file": "dyna_stat.md",
-        "desc": "This article covers about the difference, pros and cons of static and dynamic languages.",
+        "desc": "This article explains the differences, pros and cons of static and dynamic languages.",
         "author": "Prash"
     },
     "3": {
         "name": "Terminal, Shell and Console",
         "file": "term_sh_cons.md",
-        "desc": "Understand about terminal, shells and console.",
+        "desc": "This article explains what a terminal, shell and console is and how they all defer from one another, as these terms are very commonly used synonymously.",
         "author": "Emperor, MetaStag"
     },
     "4": {
         "name": "User Interfaces",
         "file": "ui.md",
-        "desc": "Some information about user interfaces and differentiate between CLI and TUI.",
+        "desc": "This article explains what a user interface is and covers the three major forms of ui, namely CLI, TUI and GUI.",
         "author": "MetaStag, Raniconduh"
     }
 }

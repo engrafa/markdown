@@ -2,31 +2,31 @@
         "0" : {
             "name": "Choose Your First Language",
             "file": "first_lang.md",
-            "desc": "We help you choose your first programming language!",
+            "desc": "This article gives some pointers on the factors to consider when choosing a language, and then recommend python as the language to start with.",
             "author" : "Sk9, MetaStag"
         },
         "1" : {
             "name": "Github",
             "file": "github.md",
-            "desc": "An article about github, a popular website to manage source code online with git.",
+            "desc": "This article gives an introduction to github, a popular website to manage source code online with git.",
             "author": "MetaStag, Emperor"
         },
         "2" : {
             "name": "IDEs and Text Editors",
             "file": "ide_te.md",
-            "desc": "Differentiate between IDEs and Text editors, and find out whether vs code is an IDE or a text editor!",
+            "desc": "This article explains the differences between IDEs and text editors, and gives use cases for both of them.",
             "author": "Emperor, MetaStag, Sk9"
         },
         "3" : {
             "name": "Researching",
             "file": "research.md",
-            "desc": "An article about some tips which can help you to research properly.",
+            "desc": "This article provides some tips which can help you in researching properly, which is an invaluable skill.",
             "author": "ACuteWoof, MetaStag"
         },
         "4" : {
             "name": "Helpful VSCode Extensions",
             "file": "vsc_ext.md",
-            "desc": "Covering some of the extensions that are available in the vs code extension store which can help you boost productivity",
+            "desc": "This article covers some popular extensions for VScode which can help increase your workflow.",
             "author": "ACuteWoof"
         }
 }

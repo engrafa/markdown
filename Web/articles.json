@@ -2,19 +2,19 @@
         "0" : {
             "name": "What is an API",
             "file": "api.md",
-            "desc": "We help you choose your first programming language!",
+            "desc": "This article explains what an API is, and how it's a very useful thing by giving a real-life example.",
             "author" : "Sk9, MetaStag"
         },
         "1" : {
             "name": "Browser Extensions",
             "file": "browser_ext.md",
-            "desc": "Some useful browser extensions for you, the programmer.",
+            "desc": "This article explains what a browser extension is, and how it can enhance the functionality of the browser, along with giving some examples of famous extensions.",
             "author": "MetaStag, Sk9"
         },
         "2": {
             "name": "Web Browsers and Search Engines",
             "file": "wb_se.md",
-            "desc": "This article differentiate between search engines and web browsers",
+            "desc": "This article explains the differences between a Web Browser and Search Engine.",
             "author": "MetaStag, ACuteWoof"
         }
 }
