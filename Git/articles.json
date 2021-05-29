@@ -1,0 +1,20 @@
+{
+    "0" : {
+        "name": "Open Source",
+        "file": "open_source.md",
+        "desc": "This article explains what open source software is.",
+        "author": "MetaStag"
+    },
+    "1" : {
+        "name": "Git",
+        "file": "git.md",
+        "desc": "This article gives an introduction to version controlling using git.",
+        "author": "MetaStag"
+    },
+    "2" : {
+        "name": "GitHub",
+        "file": "github.md",
+        "desc": "This article gives an introduction to GitHub, a platform for hosting git repositories.",
+        "author": "MetaStag, Emperor"
+    }
+}
