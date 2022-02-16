@@ -8,7 +8,7 @@ Low level languages typically interface directly with memory (RAM) or the CPU. A
 
 ## High Level
 
-As opposed to low level languages, higher level languages, such as Python, Java, JavaScript, and others, don't allow the programmer to access memory or the CPU directly. Instead, these languages provide **abstractions** such as *classes* and *garbage collection* which allow the language to do the heavy lifting itself. Higher level languages tend to be interpreted as this allows the interpreter to deal with everything and allows the program to "sit back and relax".
+As opposed to low level languages, higher level languages, such as Python, Java, JavaScript, and others, don't allow the programmer to access memory or the CPU directly. Instead, these languages provide **abstractions** such as *classes* and *garbage collection* which allow the language to do the heavy lifting itself. (Java has an API which allows access to memory itself but the language is mainly based around these abstractions.) Higher level languages tend to be interpreted as this allows the interpreter to deal with everything and allows the program to "sit back and relax".
 
 ### Esoteric Languages?
 
