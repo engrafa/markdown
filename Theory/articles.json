@@ -17,13 +17,19 @@
         "desc": "This article explains the differences, pros and cons of static and dynamic languages.",
         "author": "Prash"
     },
-    "3": {
+	"3": {
+		"name": "High V. Low Level Languages",
+		"file": "lang_levels.md",
+		"desc": "This article explains the differences between high and low level programming languages",
+		"author": "Raniconduh"
+	},
+    "4": {
         "name": "Terminal, Shell and Console",
         "file": "term_sh_cons.md",
         "desc": "This article explains what a terminal, shell and console is and how they all defer from one another, as these terms are very commonly used synonymously.",
         "author": "Emperor, MetaStag"
     },
-    "4": {
+    "5": {
         "name": "User Interfaces",
         "file": "ui.md",
         "desc": "This article explains what a user interface is and covers the three major forms of ui, namely CLI, TUI and GUI.",
